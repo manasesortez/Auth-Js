@@ -1,0 +1,16 @@
+{
+    "name": "handler-session",
+    "version": "1.0.0",
+    "description": "that is a test with JSON and Cookies",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon index.js",
+        "start": "node index.js"
+    },
+    "author": "Alberto Turcios Ortez",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1",
+        "express-session": "^1.17.1"
+    }
+}
